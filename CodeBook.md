@@ -1,4 +1,4 @@
-PROCESS
+##PROCESS
 
 The script run_analysis.R performs the following steps described in the course project's definition.
 
@@ -17,7 +17,7 @@ The script run_analysis.R performs the following steps described in the course p
 •	Finally it generates the file Tidy.txt ordered by subject and activity name with the average measures
 
 
-VARIABLES
+##VARIABLES
 
 •	featureNames and activityLabels contain the metadata i.e. the name of the features and the name of the activities respectively
 
